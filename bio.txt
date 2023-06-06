@@ -4,4 +4,4 @@ I'm going to take a new course of UX/UI
 
 Esta linea es para probar el git reset --soft
 
-This a new version
+ya entendi
