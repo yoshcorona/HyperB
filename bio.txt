@@ -1,3 +1,5 @@
 Hi my name is Yosh Corona and I'm UX/UI Designer
 
 I'm going to take a new course of UX/UI
+
+Esta linea es para probar el git reset --soft
