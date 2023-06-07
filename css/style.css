@@ -9,3 +9,8 @@ body {
     text-align: left;
 }
 
+h2 {
+    font-family: lato;
+    font-weight: 600;
+    text-align: center;
+}
