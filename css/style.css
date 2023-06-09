@@ -14,3 +14,16 @@ h2 {
     font-weight: 600;
     text-align: center;
 }
+
+.image {
+    width: 500px;
+    margin: auto;
+    height: auto;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
