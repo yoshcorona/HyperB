@@ -9,12 +9,12 @@ body {
     text-align: center;
 }
 
-.goat-image {
+.goatimg {
     width: 250px;
     margin: 0 auto;
 }
 
-.goat-image img {
+.goatimg img {
     width: 50%;
     height: 100%;
     object-fit: cover;
