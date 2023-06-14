@@ -21,3 +21,19 @@ body {
     object-fit: cover;
 }
 
+
+.footer {
+    width: 100%;
+    height: 60px;
+    background: #222;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+
+.footer p {
+    font-size: 1.25rem;
+    line-height: 60px;
+}
+
